@@ -2,9 +2,6 @@
 import random
 from hangman_art import logo, stages
 from hangman_mots import liste_mot
-from replit import clear
-from os import system
-
 
 mot_cache = []
 vie = 6
